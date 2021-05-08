@@ -23,79 +23,79 @@ http://git-scm.com
 # SETUP
 Configuring user information used across all local repositories.
 
-Name Config:
+## Name Config:
 `git config --global user.name “your_name”`
 
-Email Config:
+## Email Config:
 `git config --global user.email “your_email”`
 
 # Initialize and Setup Repositories Locally
-Clone:
+## Clone:
 `git clone repo_link`
 
-Initialize Local Repository:
+## Initialize Local Repository:
 `git init`
 
 # Stage and Commit
-Stage All Changes:
+## Stage All Changes:
 `git add .`
 
-Stage only selected files:
+## Stage only selected files:
 `git add [file_name]`
 
-Unstage File:
+## Unstage File:
 `git reset [file_name]`
 
-Commit:
+## Commit:
 `git commit -m “commit_message”`
 
-Check what is changed but not yet staged:
+## Check what is changed but not yet staged:
 `git diff`
 
-Check what is staged but not yet commited:
+## Check what is staged but not yet commited:
 `git diff --staged`
 
 # Branch and Merge
-See branch list:
+## See branch list:
 `git branch`
 
-Create Branch:
+## Create Branch:
 `git branch branch_name`
 
-Checkout Branch (Change Working Branch):
+## Checkout Branch (Change Working Branch):
 `git checkout branch_name`
 
-Merge Branch:
+## Merge Branch:
 `git merge branch_name`
 
 # Commit History and Status
-Commit Logs:
+## Commit Logs:
 `git log`
 
-Commit Logs Specific Results:
+## Commit Logs Specific Results:
 `git log [number]` say `git log 5`
 
-Check Status:
+## Check Status:
 `git status`
 
 # Remote Origin
-Add Origin:
+## Add Origin:
 `git remote add origin repo_url`
 
-Remove Origin:
+## Remove Origin:
 `git remote remove origin`
 
-Check Repo Origin:
+## Check Repo Origin:
 `git remote -v`
 
 # Pull, Push, Fetch
-Pull Changes:
+## Pull Changes:
 `git pull`
 
-Push Changes to origin:
+## Push Changes to origin:
 `git push origin branch_name`
 
-Fetch:
+## Fetch:
 `git fetch`
 
 # Contribute
