@@ -1,5 +1,7 @@
 # Git Cheat Sheet
 
+# [Download PDF](https://github.com/CyberBoyAyush/GitCheatSheet/releases/download/PDF/GitCheatSheet.pdf)
+
 <img title="a title" alt="Alt text" src="/assets/git-cheat-sheet-education-1.jpg">
 <br>
 <img title="a title" alt="Alt text" src="/assets/git-cheat-sheet-education-2.jpg">
