@@ -1,2 +1,5 @@
 theme: jekyll-theme-hacker
 show_downloads: true
+buttons:
+      btn1_url: https://github.com/CyberBoyAyush/GitCheatSheet/releases/download/PDF/GitCheatSheet.pdf
+      btn1_title: Download PDF
